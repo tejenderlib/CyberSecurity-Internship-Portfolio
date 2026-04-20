@@ -58,8 +58,5 @@ My CEHE certification and internship experience have equipped me with comprehens
   - Conducted vulnerability assessments.
   - Performed various attacks like SQL injection and ARP poisoning.
 
-## Learning & Certifications
-### CEHE Certification:
-- **Topics Covered:** Ethical hacking, penetration testing.
 
 
