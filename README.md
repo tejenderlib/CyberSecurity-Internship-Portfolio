@@ -37,9 +37,6 @@ My CEHE certification and internship experience have equipped me with comprehens
 - **Amass:** Used for advanced subdomain enumeration and network mapping through OSINT techniques.
 - **Subfinder:** A fast subdomain discovery tool that leverages passive sources.
 
-### Programming & Scripting:
-- **Command Line Interface (CLI) Development:** Created a CLI project for scanning files and links.
-
 ### Platforms:
 - **Hack The Box:** Completed various machines to develop and refine practical penetration testing skills.
 - **TryHackMe:** Engaged in various challenges and rooms to gain hands-on experience and knowledge in cybersecurity.
