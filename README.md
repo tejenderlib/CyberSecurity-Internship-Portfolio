@@ -23,7 +23,6 @@ My CEHE certification and internship experience have equipped me with comprehens
 - **Nmap:** Used for network discovery and vulnerability scanning to identify open ports, services, and potential security issues.
 - **Burp Suite:** Employed for web application security testing.
 - **Wireshark:** Utilized for network traffic analysis.
-- **Hydra:** Applied in brute-force attacks.
 
 ### Techniques & Attacks:
 - **ARP Poisoning:** Implemented ARP spoofing techniques.
